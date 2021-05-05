@@ -3,6 +3,7 @@
 * [Initial page](README.md)
 * [Offensive Pentesting](offensive-pentesting/README.md)
   * [Cheatsheet offensive](offensive-pentesting/cheatsheet-offensive.md)
+  * [Resources](offensive-pentesting/resources.md)
   * [Getting Started](offensive-pentesting/getting-started/README.md)
     * [Transferring Files](offensive-pentesting/getting-started/transferring-files.md)
     * [Privilege Escalation](offensive-pentesting/getting-started/privilege-escalation.md)
