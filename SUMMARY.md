@@ -3,6 +3,7 @@
 * [Initial page](README.md)
 * [Offensive Pentesting](offensive-pentesting/README.md)
   * [Web](offensive-pentesting/web/README.md)
+    * [Headers](offensive-pentesting/web/headers.md)
     * [Request and Response](offensive-pentesting/web/request-and-response.md)
     * [HyperText Transfer Protocol \(HTTP\)](offensive-pentesting/web/hypertext-transfer-protocol-http.md)
     * [Hypertext Transfer Protocol Secure \(HTTPS\)](offensive-pentesting/web/hypertext-transfer-protocol-secure-https.md)
