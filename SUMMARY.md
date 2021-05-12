@@ -9,6 +9,7 @@
     * [Headers](offensive-pentesting/web/headers.md)
     * [HTTP Methods and Codes](offensive-pentesting/web/http-methods-and-codes.md)
     * [GET Method](offensive-pentesting/web/get-method.md)
+    * [POST Method](offensive-pentesting/web/post-method.md)
     * [Web Enumeration](offensive-pentesting/web/web-enumeration.md)
   * [Cheatsheet offensive](offensive-pentesting/cheatsheet-offensive.md)
   * [Resources](offensive-pentesting/resources.md)
